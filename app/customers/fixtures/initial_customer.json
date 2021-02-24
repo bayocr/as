@@ -1,0 +1,184 @@
+[
+{
+    "model": "customers.customer",
+    "pk": 1,
+    "fields": {
+        "name": "Fashion Store",
+        "ruc": "800650-9",
+        "email": "admin@fasionstore.com",
+        "telephone": "+595216321",
+        "address": "Juan Jose Avda. 78",
+        "created_at": "2021-02-24T13:00:48.704Z",
+        "updated_at": "2021-02-24T13:00:48.704Z"
+    }
+},
+{
+    "model": "customers.customer",
+    "pk": 2,
+    "fields": {
+        "name": "Store of economic",
+        "ruc": null,
+        "email": "support@economic.com",
+        "telephone": null,
+        "address": null,
+        "created_at": "2021-02-24T13:02:19.608Z",
+        "updated_at": "2021-02-24T13:02:19.608Z"
+    }
+},
+{
+    "model": "customers.customer",
+    "pk": 3,
+    "fields": {
+        "name": "Hammers Store",
+        "ruc": "5680125-5",
+        "email": "admin@hammerstore.net",
+        "telephone": null,
+        "address": "Chicago 124",
+        "created_at": "2021-02-24T13:03:35.256Z",
+        "updated_at": "2021-02-24T13:03:35.256Z"
+    }
+},
+{
+  "model": "customers.customer",
+  "pk": 4,
+  "fields": {
+      "name": "Goin’ Postal",
+      "ruc": "564455-5",
+      "email": "admin@postal.net",
+      "telephone": null,
+      "address": "Us final Avda.",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 5,
+  "fields": {
+      "name": "Sam and Ella’s",
+      "ruc": "5364455-5",
+      "email": "admin@samandella.net",
+      "telephone": null,
+      "address": "Us final Avda.",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 6,
+  "fields": {
+      "name": "Kum & Go",
+      "ruc": "536355-5",
+      "email": "admin@kum.net",
+      "telephone": null,
+      "address": "Springfield 20",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 7,
+  "fields": {
+      "name": "Jitters",
+      "ruc": "5364456-5",
+      "email": "admin@jitters.com",
+      "telephone": null,
+      "address": "Springfield 20",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 8,
+  "fields": {
+      "name": "Passmore Gas & Propane",
+      "ruc": "536498-5",
+      "email": "admin@passmore.com",
+      "telephone": null,
+      "address": "Springfield 20",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 9,
+  "fields": {
+      "name": "Spruce Springclean",
+      "ruc": "5364476-5",
+      "email": "admin@spruce.com",
+      "telephone": null,
+      "address": "Us final Avda.",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 10,
+  "fields": {
+      "name": "Amigone Funeral Home",
+      "ruc": "5364455-9",
+      "email": "admin@amigone.net",
+      "telephone": null,
+      "address": "Us final Avda.",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 11,
+  "fields": {
+      "name": "Tequila Mockingbird",
+      "ruc": "5364355-0",
+      "email": "admin@tequila.com",
+      "telephone": null,
+      "address": "Us final Avda.",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 12,
+  "fields": {
+      "name": "Toyota Previa",
+      "ruc": "5364955-2",
+      "email": "admin@tprevia.com",
+      "telephone": null,
+      "address": "Us final Avda.",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 13,
+  "fields": {
+      "name": "Chew-N-Butts",
+      "ruc": "5364555-7",
+      "email": "admin@chew-n-butts.com",
+      "telephone": null,
+      "address": "Us final Avda.",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+},
+{
+  "model": "customers.customer",
+  "pk": 14,
+  "fields": {
+      "name": "Stubbs Prosthetics & Orthotics",
+      "ruc": "5368564-7",
+      "email": "admin@stubbs.com",
+      "telephone": null,
+      "address": "Us final Avda.",
+      "created_at": "2021-02-24T13:03:35.256Z",
+      "updated_at": "2021-02-24T13:03:35.256Z"
+  }
+}
+]
