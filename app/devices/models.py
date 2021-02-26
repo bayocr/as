@@ -12,3 +12,17 @@ class Brand(models.Model):
 
     def __str__(self):
         return self.name
+
+class Category(models.Model):
+    """
+    Model representing a device catery, like Monitor, Motherboard and so on
+    """
+    class Meta:
+        verbose_name = _('category')
+
+    name = models.CharField(_('category'), max_length=60, unique=True)
+    created_at = models.DateTimeField(_('created at'), auto_now_add=True)
+    updated_at = models.DateTimeField(_('updated at'), auto_now=True)
+
+    def __str__(self):
+        return self.name
